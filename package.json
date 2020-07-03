@@ -1,0 +1,15 @@
+{
+  "name": "@visaright-eu/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared prettier config used across visaright company projects",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visaright-eu/prettier-config.git"
+  },
+  "author": "Anton Puko",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "license": "MIT"
+}
