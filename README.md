@@ -1,11 +1,11 @@
-# `@visaright-eu/prettier-config`
+# `@visaright/prettier-config`
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ yarn add --dev @visaright-eu/prettier-config
+$ yarn add --dev @visaright/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -13,6 +13,6 @@ $ yarn add --dev @visaright-eu/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@visaright-eu/prettier-config"
+  "prettier": "@visaright/prettier-config"
 }
 ```
